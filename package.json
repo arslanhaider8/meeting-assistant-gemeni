@@ -2,7 +2,7 @@
   "name": "meeting-assistant",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://arslanhaider8.github.io/meeting-assistant-gemeni/",
+  "homepage": ".",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.57.0",
     "@google/genai": "^1.12.0",
