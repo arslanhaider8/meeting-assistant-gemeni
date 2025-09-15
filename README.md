@@ -9,6 +9,9 @@ This project is a real-time meeting assistant that transcribes speech and uses G
 - AI-powered meeting summarization using Google Gemini
 - Easy-to-use interface
 
+##Deployed Version link
+- https://arslanhaider8.github.io/meeting-assistant-gemeni/
+
 ## Prerequisites
 
 Before you begin, ensure you have:
