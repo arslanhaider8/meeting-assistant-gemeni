@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meeting-assistant-gemeni/static/css/main.76efbe03.css",
+    "main.js": "/meeting-assistant-gemeni/static/js/main.dc4afa8e.js",
+    "static/js/453.d0fb725b.chunk.js": "/meeting-assistant-gemeni/static/js/453.d0fb725b.chunk.js",
+    "index.html": "/meeting-assistant-gemeni/index.html",
+    "main.76efbe03.css.map": "/meeting-assistant-gemeni/static/css/main.76efbe03.css.map",
+    "main.dc4afa8e.js.map": "/meeting-assistant-gemeni/static/js/main.dc4afa8e.js.map",
+    "453.d0fb725b.chunk.js.map": "/meeting-assistant-gemeni/static/js/453.d0fb725b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76efbe03.css",
+    "static/js/main.dc4afa8e.js"
+  ]
+}
